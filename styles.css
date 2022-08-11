@@ -1,0 +1,13 @@
+body { 
+    margin: 0; 
+    padding: 0; 
+    background-color: white;
+}
+
+ .marker {
+    display: block;
+    border: none;
+    border-radius: 50%;
+    cursor: pointer;
+    padding: 0;
+    } 
