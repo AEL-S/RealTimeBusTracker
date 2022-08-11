@@ -2,7 +2,7 @@
 
 This assigment was completed for the MIT xPro Fullstack Development with MERN certificate program. Buses on a route in Boston are tracked in real time by calling to an API service.
 <br>
-<h2>To run: <h2>
+<h2>To run: </h2>
 In order to run this project, fork and clone this repository. Then, add your own personal Mapbox access code to the mapanimation.js file. Once that is completed it will be possible to run the index.html file and see the code in action. 
 <br>
 <h2>Future Improvements:</h2>
