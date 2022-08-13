@@ -5,7 +5,7 @@ This assigment was completed for the MIT xPro Fullstack Development with MERN ce
 <h2>To run: </h2>
 In order to run this project, fork and clone this repository. Then, add your own personal Mapbox access code to the mapanimation.js file. Once that is completed it will be possible to run the index.html file and see the code in action. 
 <br>
-<h2>Future Improvements:</h2>
+<h2>Roadmap of Future Improvements:</h2>
 In the future, the markers will be customized and the styling of the map itself may be customized further for better visibility.
 <br>
 <h2>License</h2>
