@@ -4,10 +4,13 @@ This assigment was completed for the MIT xPro Fullstack Development with MERN ce
 <img src="RealTimeBusTrackerSS.png" alt="Photo of Real Time Bus Tracker project" title="Real Time Bus Tracker">
 <h2>To run: </h2>
 In order to run this project, fork and clone this repository. Then, add your own personal Mapbox access code to the mapanimation.js file. Once that is completed it will be possible to run the index.html file and see the code in action. 
-<br>
+
 <h2>Roadmap of future improvements:</h2>
 In the future, the markers will be customized and the styling of the map itself may be customized further for better visibility.
-<br>
+
+<h2>Support:</h2>
+Feel free to email me at Aesteg89@gmail.com or message me on LinkedIn (https://www.linkedin.com/in/anna-stegmann-77825b136/) if you have any questions. 
+
 <h2>License</h2>
 MIT License
 
